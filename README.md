@@ -1,9 +1,7 @@
 <div align="center" width="50">
 
 <img src=https://github.com/mohamedhesham6239/mohamedhesham6239/blob/2e799f349cfe7af6e5c2203582dc61e4fcac201e/ChatGPT%20Image%20May%208%2C%202026%2C%2007_03_20%20PM.png width="80%"/> 
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
-<br>
+
 
 # 👨‍💻 Mohamed Hesham
 
