@@ -11,15 +11,19 @@
 
 ---
 
+## 🚀 About Me
+Computer Science student passionate about Artificial Intelligence, Machine Learning, and Data Science.  
+I enjoy building real-world projects and exploring how data can drive intelligent systems.
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamed-hesham&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ---
 
-## 🚀 Programming Languages
+## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -27,18 +31,33 @@
 
 ---
 
-## 🤖 Machine Learning / Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=flat)
+## 🤖 Machine Learning & Data Science
 
----
+### 📊 Data Processing
+- Data Cleaning & Handling Missing Values  
+- Data Preprocessing 🧹  
+- Feature Engineering (Basic)  
+- Exploratory Data Analysis (EDA)  
 
-## 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+### 📚 ML Basics
+- Supervised Learning  
+- Unsupervised Learning  
+- Regression Models  
+- Classification Models  
+- Model Evaluation (Accuracy, Precision, Recall)  
+
+### 🧠 NLP Basics
+- Text Preprocessing (Tokenization, Stopwords Removal)  
+- Bag of Words (BoW)  
+- TF-IDF Vectorization  
+- Basic Sentiment Analysis  
+
+### 📦 Libraries
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
 
 ---
 
@@ -52,12 +71,12 @@
 
 ---
 
-## 📌 Focus Areas
+## 🎯 Focus Areas
 - Machine Learning 🤖  
 - Deep Learning 🧠  
 - Data Science 📊  
-- Problem Solving 💡  
-- Building Real Projects 🚀  
+- NLP Basics 🗣️  
+- Real-world AI Projects 🚀  
 
 ---
 
